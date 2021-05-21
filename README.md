@@ -1,2 +1,2 @@
 # Handwritten-DIgit-Recognition
-* Program that learns how to recognize handwritten digits, using stochastic gradient descent and the MNIST training data.
+* Feedforward Neural Network that recognize handwritten digits ( MNIST training data ), using mini-batch stochastic gradient descent.
