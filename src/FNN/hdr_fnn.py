@@ -1,7 +1,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 from mnist_loader import load_data_wrapper 
-from customneuralnet import FNN
+from customdl import FNN
 
 # MNIST data split
 training_data, validation_data, test_data = load_data_wrapper()
